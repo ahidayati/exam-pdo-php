@@ -1,0 +1,14 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #EAEAEA;
+}
+.remove-format {
+    text-decoration: none;
+    color: inherit;
+}
+.remove-format:hover {
+    color: grey;
+}
+.fas, .far {
+    color: black;
+}
