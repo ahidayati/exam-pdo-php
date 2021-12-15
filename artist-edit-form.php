@@ -26,7 +26,7 @@ $viewArtist = $artist->viewDetailsArtist($newArtist);
             </div>
 
             <div class="mb-3">
-                <label for="nameInput" class="form-label">Name</label>
+                <label for="nameInput" class="form-label">Artist Name</label>
                 <input type="text" class="form-control" id="nameInput" name="name" value="<?php echo $viewArtist['name'] ?>">
             </div>
 

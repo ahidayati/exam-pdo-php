@@ -14,7 +14,7 @@ include 'header.php';
     <div class="col-6">
         <form action="artist-add-form-treat.php" method="post">
             <div class="mb-3">
-                <label for="nameInput" class="form-label">Name</label>
+                <label for="nameInput" class="form-label">Artist Name</label>
                 <input type="text" class="form-control" id="nameInput" name="name">
             </div>
 
