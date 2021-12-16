@@ -1,6 +1,7 @@
 # exam-pdo-php
 
 This repository is created to submit an exam on PHP Data Object (15/12/2021).
+Note to Jules: I didn't had enough time to fix the bug on song update and delete artist 😓
 
 ## Import Database
 
