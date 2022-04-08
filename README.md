@@ -1,4 +1,4 @@
-# exam-pdo-php
+# songs-artists-pdo-php
 
 ![php](https://user-images.githubusercontent.com/78032924/162468506-729e3ff4-53bc-485e-a242-b64a3e8c9849.gif)
 
