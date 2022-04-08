@@ -4,7 +4,7 @@ This repository is created to submit an exam on PHP Data Object (15/12/2021). <b
 Note to Jules: I didn't have enough time to fix the bug on song update and delete artist 😓
 
 ## Import Database
-For Linux: PHP 8.0 on Docker
+For Linux: PHP 8.0 on Docker <br>
 For Windows: Start WAMP & import data on phpMyAdmin
 
 Data: exam_pdo.sql
