@@ -1,5 +1,7 @@
 # exam-pdo-php
 
+![php](https://user-images.githubusercontent.com/78032924/162468506-729e3ff4-53bc-485e-a242-b64a3e8c9849.gif)
+
 This repository is created to submit an exam on PHP Data Object (15/12/2021). <br>
 Note to Jules: I didn't have enough time to fix the bug on song update and delete artist 😓
 
